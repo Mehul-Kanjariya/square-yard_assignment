@@ -1,0 +1,43 @@
+.img{
+    width:40%;
+    height:600px;
+}
+
+
+@media screen and (max-width: 950px) {
+    .img{
+        width:50%
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .img{
+        width:60%
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .img{
+        width:70%;
+        height:550px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .img{
+        width:70%;
+        height:500px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .img{
+        width:80%;
+    }
+}
+
+@media screen and (max-width: 350px) {
+    .img{
+        height:380px;
+    }
+}
